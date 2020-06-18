@@ -1,3 +1,4 @@
+/** @type import('@tarojs/taro/types/compile').IProjectConfig */
 const config = {
   projectName: '<%= projectName %>',
   date: '<%= date %>',
